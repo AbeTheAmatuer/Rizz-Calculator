@@ -17,6 +17,7 @@ class Person{
     }
 }
 
+//The constructor function takes in weight(in pounds), height(ft'in") and amount of female friends. It needs weight so it can calculate BMI and factor in physical health. 
 const john = new Person(146.2, "5'11", 6);
 console.log(john.calculateRizz());
 //Code Written by SirAbe
