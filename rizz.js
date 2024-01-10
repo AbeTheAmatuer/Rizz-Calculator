@@ -17,6 +17,6 @@ class Person{
     }
 }
 
-const Ibrahim = new Person(146.2, "5'11", 6);
-console.log(Ibrahim.calculateRizz());
+const john = new Person(146.2, "5'11", 6);
+console.log(john.calculateRizz());
 //Code Written by SirAbe
